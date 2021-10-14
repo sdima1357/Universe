@@ -4,5 +4,5 @@
 int main()
 {
   printf("Hello Universe\n");
-  return 41;
+  return 42;
 }
