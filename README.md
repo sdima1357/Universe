@@ -7,3 +7,5 @@ This is a fork of project of Universe.  Unfortunately free access to latest full
 Anyway... If You detect or see some bug or misuse of this programm, You can open issue with report the bug or misuse here.
 
 Current version 0.42z
+
+How to build: TBD
