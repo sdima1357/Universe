@@ -8,4 +8,5 @@ Anyway... If You detect or see some bug or misuse of this programm, you can open
 
 Current version 0.42z
 
-How to build: TBD
+How to build: 
+Are You sure ? Think twice! It takes at least 6 days.
